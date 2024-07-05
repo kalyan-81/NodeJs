@@ -1,0 +1,10 @@
+{
+    "name":"kalyan",
+    "age":"26",
+    "gender":"male",
+    "address":{
+        "street":"kotha colony",
+        "village":"pillalamarri"
+
+    }
+}
